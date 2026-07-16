@@ -1,0 +1,8 @@
+Checkbox.checked {
+    text-style: strike;
+    opacity: 50%;
+}
+
+.tasks {
+    width: 100%
+}
