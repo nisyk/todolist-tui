@@ -1,8 +1,19 @@
+TodoItem {
+    height: auto;
+    align-vertical: middle;
+}
+
+TodoItem Checkbox {
+    width: 100%;
+}
+TodoItem Button {
+    dock: right;
+    margin-right: 1;
+    width: 8;
+    min-width: 8;
+}
+
 Checkbox.checked {
     text-style: strike;
     opacity: 50%;
-}
-
-.tasks {
-    width: 100%
 }
