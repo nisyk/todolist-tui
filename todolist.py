@@ -4,6 +4,10 @@ from textual.containers import VerticalScroll, Horizontal
 from textual import on
 import sqlite3
 
+
+'''
+FRONT END [TEXTUAL]
+'''
 class TodoItem(Horizontal):
     def __init__(self, task_id: int, tasks_label: str, is_completed: bool = False) -> None:
         super().__init__()
