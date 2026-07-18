@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="86815ced-a700-4ba1-b397-a6833d83786a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todolist.py" beforeDir="false" afterPath="$PROJECT_DIR$/todolist.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todolist.db" beforeDir="false" afterPath="$PROJECT_DIR$/todolist.db" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +43,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/nisyhad/Bookmarks/Projects/todolist-tui",
+    "last_opened_file_path": "/home/nisyhad/Bookmarks/Projects/mediacontrol-tui",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
